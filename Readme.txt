@@ -1,0 +1,1 @@
+My solutions for Hackerrank challenges most of them are in C++, some are in python. These solutions are for review purpose, and if anyone has any query or have a better solution just message me, i will surely reply.
